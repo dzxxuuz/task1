@@ -1,7 +1,7 @@
 #pragma once
 #include "B1.h"
 class D2 :
-    public B1
+    private B1
 {
 	int d2;
 public:
